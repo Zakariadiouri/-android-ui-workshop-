@@ -7,9 +7,7 @@
 ## 📱 Exercices réalisés
 
 ### Exercice 1 : Calculatrice (LinearLayout)
-- ✅ Interface avec LinearLayout
-- ✅ Opérations d'addition et soustraction
-- ✅ Validation des entrées
+![Image](https://github.com/user-attachments/assets/b28c742b-23f6-4b9b-ab9e-6c173935a57b)
 
 ### Exercice 2 : Profil Utilisateur (ConstraintLayout)
 - ✅ Interface avec ConstraintLayout
