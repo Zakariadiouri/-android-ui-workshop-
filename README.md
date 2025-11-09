@@ -10,9 +10,7 @@
 ![Image](https://github.com/user-attachments/assets/b28c742b-23f6-4b9b-ab9e-6c173935a57b)
 
 ### Exercice 2 : Profil Utilisateur (ConstraintLayout)
-- ✅ Interface avec ConstraintLayout
-- ✅ Formulaire de profil
-- ✅ Mise à jour des informations
+
 
 ### Challenge : Application de Contact
 - ✅ Formulaire complet avec tous les champs
@@ -21,13 +19,10 @@
 - ✅ Affichage formaté
 - ✅ Fonction de réinitialisation
 
-## 📸 Captures d'écran
-[Ajoutez ici vos captures d'écran]
-
 ## 📚 Ce que j'ai appris
-- [Listez 3-5 points clés que vous avez appris]
-- [Exemple : Maîtriser l'utilisation de `ConstraintLayout` pour un positionnement complexe.]
+- [Maîtriser les deux principaux Layouts Android: LinearLayout et ConstraintLayout.]
+- [J'ai pratiqué le binding des vues en Kotlin et la gestion des événements (setOnClickListener).]
+- [J'ai appris à valider les formulaires et à utiliser les composants comme RadioGroup.]
 
 ## 💡 Difficultés rencontrées
-- [Mentionnez les difficultés et comment vous les avez résolues]
-- [Exemple : Difficulté à aligner les boutons côte à côte ; résolu en utilisant `layout_width="0dp"` et des contraintes Start/End entre eux.]
+- [Mentionne une difficulté technique que tu as rencontrée et comment tu l'as résolue.]
