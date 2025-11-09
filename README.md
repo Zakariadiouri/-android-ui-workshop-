@@ -13,11 +13,9 @@
 <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/439c81c7-030e-49ee-a570-8ff00198abc7" />
 
 ### Challenge : Application de Contact
-- ✅ Formulaire complet avec tous les champs
-- ✅ RadioButtons pour catégories
-- ✅ Validation complète
-- ✅ Affichage formaté
-- ✅ Fonction de réinitialisation
+
+
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/3135102b-3d93-46d7-b890-3c8f0e581f9e" />
 
 ## 📚 Ce que j'ai appris
 - [Maîtriser les deux principaux Layouts Android: LinearLayout et ConstraintLayout.]
