@@ -10,7 +10,7 @@
 ![Image](https://github.com/user-attachments/assets/b28c742b-23f6-4b9b-ab9e-6c173935a57b)
 
 ### Exercice 2 : Profil Utilisateur (ConstraintLayout)
-
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/439c81c7-030e-49ee-a570-8ff00198abc7" />
 
 ### Challenge : Application de Contact
 - ✅ Formulaire complet avec tous les champs
